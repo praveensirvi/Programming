@@ -4,6 +4,8 @@ To see preview in side window press Ctrl+Shift+RightArrow-->
 [//]: # (comment text goes here)
 
 
+[All credits to the original Author]
+
 
 # Markdown Cheat Sheet
 
